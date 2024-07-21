@@ -1,0 +1,9 @@
+Utilizar o pipenv
+
+Se estiver usando o linux, talvez seja necessario instalar o tkinter
+
+Fedora:
+sudo dnf install python3-tkinter 
+
+Debian e derivados (Ubuntu e etc.):
+sudo apt-get install python3-tk
